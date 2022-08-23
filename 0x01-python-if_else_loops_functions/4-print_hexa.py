@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for hexa in range(0, 99):
-    print("{:d} = 0x{:x}".format(hexa))
+    print("{0:d} = 0x{0:x}".format(hexa))
