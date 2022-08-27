@@ -1,7 +1,6 @@
 # 0x02. Python - import & modules
-***
 
-#### About
+### About
 ***
 
 This project is based on:
@@ -12,7 +11,7 @@ This project is based on:
 * How to prevent code in your script from being executed when imported
 * How to use command line arguments with your Python programs
 
-#### Requirments
+### Requirments
 ***
 
 * python3 (version 3.8.5)
