@@ -1,6 +1,7 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
 ### About
+
 This project is based on:
 * Lists, their methods, and how to use them
 * How to use lists as stacks and queues
